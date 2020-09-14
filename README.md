@@ -1,4 +1,4 @@
-# 3dperlinNoiseTut
+# 3D Perlin Noise
 Unity project, that contains a 3D perlin noise generator script and a script that shows a gizmo of points
 
 ## Usage:
